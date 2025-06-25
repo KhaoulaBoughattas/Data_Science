@@ -52,11 +52,6 @@ Welcome to my curated collection of **Data Science projects**, which demonstrate
 
   **Real-world Relevance:** Investment analysis, asset comparison tools, financial analytics dashboards.
 
-## 📊 Data Analysis Projects
-
-Explore more data storytelling and business intelligence projects in my live portfolio:  
-👉 [https://sites.google.com/view/andrelc/](https://sites.google.com/view/andrelc/)  
-Includes financial dashboards, churn analysis, and operational KPIs.
 
 ---
 
